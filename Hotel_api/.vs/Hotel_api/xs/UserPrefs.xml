@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{EF740AF9-202A-4761-8194-B86B0E1AE177}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Hotel_api/Program.cs">
+    <Files>
+      <File FileName="Hotel_api/Controllers/CategoriesController.cs" Line="183" Column="49" />
+      <File FileName="Hotel_api/Startup.cs" Line="63" Column="1" />
+      <File FileName="Hotel_api/Program.cs" Line="16" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Hotel_api" expanded="True">
+            <Node name="Hotel_api" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Hotel__api PreferredExecutionTarget="/Applications/Brave Browser.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
